@@ -156,3 +156,4 @@ public class KMeans {
     return Math.sqrt( differenceOfRed*differenceOfRed + differenceOfGreen*differenceOfGreen + differenceOfBlue*differenceOfBlue );
   }
 }
+// Hello 
